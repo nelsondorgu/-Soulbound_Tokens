@@ -51,7 +51,7 @@ The contract includes:
 
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/soulbound-tokens-clarity.git
+git clone https://github.com/nelsondorgu/soulbound-tokens-clarity.git
 cd soulbound-tokens-clarity
 ```
 
